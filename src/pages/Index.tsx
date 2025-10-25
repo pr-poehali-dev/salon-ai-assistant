@@ -31,7 +31,7 @@ const Index = () => {
               Для мастеров и владельцев салонов
             </div>
             <h1 className="text-4xl md:text-6xl font-heading font-bold mb-6 leading-tight">AI-администратор, который работает 24/7</h1>
-            <p className="text-lg md:text-xl text-gray-300 mb-8 leading-relaxed">Фокусируйся на красоте - АI ассистент сам вносит </p>
+            <p className="text-lg md:text-xl text-gray-300 mb-8 leading-relaxed">Больше никакой рутины: MIRA сама отвечает клиентам, ведёт записи и возвращает тех, кто пропал.</p>
             
             <div className="grid md:grid-cols-3 gap-6 mb-12 text-left">
               <div className="bg-white/5 backdrop-blur-sm p-6 rounded-lg border border-white/10 hover:bg-white/10 transition-colors">
