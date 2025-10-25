@@ -27,7 +27,7 @@ const Index = () => {
       <section className="relative overflow-hidden bg-gradient-to-b from-[#1A1F2C] to-[#2A2F3C] text-white py-20 md:py-32">
         <div className="container mx-auto px-4 md:px-6">
           <div className="max-w-4xl mx-auto text-center animate-fade-in">
-            <div className="inline-block mb-6 px-6 py-3 bg-primary/20 text-2xl md:text-3xl font-semibold mx-0 rounded-xl">
+            <div className="inline-block bg-primary/20 text-sm font-medium py-8 my-2.5 mx-0.5 px-[11px] rounded-0">
               Для мастеров и владельцев салонов
             </div>
             <h1 className="text-4xl md:text-6xl font-heading font-bold mb-6 leading-tight">AI-администратор, который работает 24/7</h1>
@@ -58,10 +58,7 @@ const Index = () => {
             </div>
 
             <a href="#participate">
-              <Button size="lg" className="bg-primary hover:bg-primary/90 text-white px-8 py-6 text-lg font-semibold rounded-full">
-                Принять участие
-                <Icon name="ArrowRight" className="ml-2" size={20} />
-              </Button>
+              <Button size="lg" className="bg-primary hover:bg-primary/90 text-white px-8 py-6 text-lg font-semibold rounded-full">Хочу перестать жить в переписках</Button>
             </a>
           </div>
         </div>
