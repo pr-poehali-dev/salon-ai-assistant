@@ -27,7 +27,7 @@ const Index = () => {
       <section className="relative overflow-hidden bg-gradient-to-b from-[#1A1F2C] to-[#2A2F3C] text-white py-20 md:py-32">
         <div className="container mx-auto px-4 md:px-6">
           <div className="max-w-4xl mx-auto text-center animate-fade-in">
-            <div className="inline-block mb-6 px-4 py-2 bg-primary/20 text-sm font-medium mx-0 rounded-xl">
+            <div className="inline-block mb-6 px-6 py-3 bg-primary/20 text-2xl md:text-3xl font-semibold mx-0 rounded-xl">
               Для мастеров и владельцев салонов
             </div>
             <h1 className="text-4xl md:text-6xl font-heading font-bold mb-6 leading-tight">AI-администратор, который работает 24/7</h1>
